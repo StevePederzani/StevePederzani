@@ -1,6 +1,6 @@
 # Table of contents
 
-* [WARNING: LIVING DRAFT WORK-IN -PROGRESS!](README.md)
+* [WARNING: LIVING DRAFT](README.md)
 
 ## The Ozmium (OZ) Token <a href="#about" id="about"></a>
 
