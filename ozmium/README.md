@@ -12,7 +12,9 @@ coverY: 0
 # WARNING: LIVING DRAFT
 
 {% hint style="danger" %}
-**WARNING: All content during drafting may be subject to change or removal without notice!**
+**WARNING: All content during drafting may be subject to change or removal without notice!**\
+\
+This **whitepaper** or **concept paper** is a **living document**, meaning it can change at any time without notice. It shows the current plans and ideas of the project, but is not a guarantee or promise. The information here, including projections, product details, and financial models, is for informational purposes only and not given as financial advice or an invitation to invest. The project may update, remove, or change content based on existing or future changes in law, technology, and ethics. Investors and readers: do your own research, and check regularly for changes.
 {% endhint %}
 
 {% hint style="warning" %}
@@ -21,6 +23,6 @@ coverY: 0
 🙇 Thank you for understanding!
 {% endhint %}
 
-The content in this Gitbook is highly speculative until the draft is completed and goes through review. Please do your own research and proceed with caution if speculating on tokens while this content is a draft. Do not use the contents as meaningful financial data in which to hedge investment on. This is an App Token / AI Token for an early development project.
+<p align="center"></p>
 
 <p align="center"><strong>Thank you for supporting this project's journey!</strong> </p>

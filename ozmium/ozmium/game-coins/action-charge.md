@@ -1,6 +1,0 @@
----
-icon: rhombus
----
-
-# Action Charge
-

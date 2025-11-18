@@ -1,13 +1,9 @@
 ---
-description: Disclaimers, Terms, and Boilerplate
+description: Important Warnings, Disclaimers, Terms and Boilerplate
 icon: shield-exclamation
 ---
 
-# Important Disclaimers
-
-{% hint style="warning" %}
-This **whitepaper** or **concept paper** is a **living document**, meaning it can change at any time without notice. It shows the current plans and ideas of the project, but is not a guarantee or promise. The information here, including projections, product details, and financial models, is for informational purposes only and not given as financial advice or an invitation to invest. The project may update, remove, or change content based on existing or future changes in law, technology, and ethics. Investors and readers: do your own research, and check regularly for changes.
-{% endhint %}
+# Disclaimers
 
 1.  **General Legal Disclaimer**
 
@@ -17,16 +13,14 @@ This **whitepaper** or **concept paper** is a **living document**, meaning it ca
     > Participation in digital asset ecosystems such as Ozmium may have tax implications based on your jurisdiction. U.S. users can refer to Coinbase general guidance for information on crypto taxes, cost basis, and reporting responsibilities.
     >
     > &#x20;  🔗 [View the full guide on Coinbase →](https://help.coinbase.com/en/coinbase/taxes/general-information/tax-info)\
-    > &#x20;  🔵 [Sign up for Coinbase →](https://coinbase.com/join/A2RHGAV?src=referral-link)
+    > &#x20;  🔵 [Sign up for Coinbase →](https://coinbase.com/join/A2RHGAV?src=referral-link)\
+    > &#x20;  🟣 [Sign up for Farcaster →](https://farcaster.xyz/referralCode/1914H5)
 3.  **Intellectual Property and Licensing**
 
-    > All trademarks, branding elements, and patentable output (collectively referred to as "Protected Assets") referenced in this document, including the Ozmium name and logos, are the exclusive property of ozmium.eth. Unauthorized use, misrepresentation, or reproduction of these Protected Assets is strictly prohibited. However, all visual, literary, and performing arts works of authorship created under the Ozmium project are made available under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0), provided the content adheres to standards of moral upstanding character and complies with the laws of the United States of America.
+    > All trademarks, branding elements, and patentable output (collectively referred to as "Protected Assets") referenced in this document, including the Ozmium name and logos, are the exclusive property of ozmium.eth. Unauthorized use, misrepresentation, or reproduction of these Protected Assets is strictly prohibited. However, all visual, literary, and performing arts works of authorship created under the Ozmium project, with the exception of the Ozmium token graphic, are made available under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0), provided the content adheres to standards of moral upstanding character, non-infringing upon the Ozmium trademark and others' intellectual property, and complies with the laws of the United States of America.
 4.  **No Implied Associations, Partnerships, or Endorsements**
 
-    > Any mention of third-party protocols, networks, or platforms (e.g., Apple, Base, Clanker, Coinbase, Farcaster, Uniswap) does not imply endorsement, partnership, association, or affiliation with the Ozmium project. All referenced brands, products, and services are the property of their respective owners. Additionally, no previous employment, partnerships, or personal or professional connections (e.g., A Stage Reborn, Discord, Patreon, Square Enix, Wizards of the Coast, Hasbro) imply any endorsement, partnership, association, or affiliation with the Ozmium project. Current associations include but may not be limited to:
-    >
-    > * **Beb, Inc.**, associated with "Andhakara" ($ANKR) on Vibe Market by Wield Labs.
-    > * **Clanker**, the token launchpad associated with Ozmium ($OZ) on Base.
+    > Any mention of third-party protocols, networks, or platforms (e.g., Apple, Base, Clanker, Coinbase, Farcaster, Uniswap) does not imply endorsement, partnership, association, or affiliation with the Ozmium project. All referenced brands, products, and services are the property of their respective owners. Additionally, no previous employment, partnerships, or personal or professional connections (e.g., A Stage Reborn, Discord, Patreon, Square Enix, Wizards of the Coast, Hasbro) imply any endorsement, partnership, association, or affiliation with the Ozmium project.
 5.  **No Guarantee of Platform Continuity or Feature Set**
 
     > We do not guarantee the continued availability or functionality of the platform, its features, or services. The features and services provided by the project are subject to change, suspension, or discontinuation at the project's discretion without prior notice. This includes but is not limited to modifications, updates, or removals of any features, tools, or services offered within the ecosystem. While we strive to maintain the platform’s operational stability, users acknowledge and accept that the project is under continuous development and may evolve, with no assurance that specific features or services will remain available in the future.
