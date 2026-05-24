@@ -1,6 +1,0 @@
----
-icon: clipboard-question
----
-
-# Overview
-
